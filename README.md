@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project demonstrates how to securely manage AWS credentials using **AWS Secrets Manager** instead of hardcoding sensitive information in application code.
 
+<img width="826" height="700" alt="Screenshot 2026-01-28 160532" src="https://github.com/user-attachments/assets/cde81052-a682-4bb1-94fe-245013e02cc8" />
+
+
 The goal was to follow cloud security best practices and prevent credential exposure in source control systems like GitHub.
 ---
 
